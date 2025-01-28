@@ -1,0 +1,9 @@
+name: EasyDTops
+main: org.meigo.EasyDTops
+version: 1.0
+api-version: 1.16
+author: Meigo™ Corporation
+description: >
+             EasyDTops is a plugin that utilizes the EasyDonate service API to create a leaderboard based on the total amount donated.
+website: https://github.com/meigoc/EasyDTops
+softdepend: [PlaceholderAPI]
